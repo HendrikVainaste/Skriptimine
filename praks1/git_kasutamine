@@ -27,3 +27,11 @@
 
 
 		f) git remote kontroll
+
+			git remote -v
+
+	põhikasutamine:
+
+		g) pane fail jälgimisele 
+	
+			git add failinimi
